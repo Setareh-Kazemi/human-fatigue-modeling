@@ -33,7 +33,7 @@ A total of 17 people participated in this experiment. Each session of the experi
 ## Data Files: 
 
 In the [**data**](data) folder below files can be found:
-   1. [Anthropometric_data.RData](data/Anthropometric_data.RData): In this file the anthropometrics of participants are saved including their: gender, age, height(cm), weight(kg), waist circumference (cm), hip circumference (cm), and body mass index (BMI).
+   1. [Participants' Anthropometrics.xlsx](data/Participants' Anthropometrics.xlsx): In this file the anthropometrics of participants are saved including their: gender, age, height(cm), weight(kg), waist circumference (cm), hip circumference (cm), and body mass index (BMI).
    2. [NIOSH_Experiment_Settings.xlsx](data/NIOSH_Experiment_Settings.xlsx): In the sheet "For analysis" of this file the random order of task conditions (combinations of load and pace) are assigned to different participants. This file is later used in the analysis to understand what task condition was performed in each session of the experiment. 
    3. [full_sensor_data](data/full_sensor_data) folder includes the [IMU_raw_data.md](data/IMU_raw_data.md): This markdown provides the link to access the large raw IMU and RPE data for download, along with the full description of its content.
    4. [corrected_Changepoints.csv](data/corrected_Changepoints.csv): In this file the changepoints identifying the start and end of the first 45-minute of experiment are provided.
