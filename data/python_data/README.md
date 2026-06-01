@@ -41,7 +41,6 @@ Variables include:
 * Timestamp
 * Trunk accelerometer, gyroscope, and magnetometer signals (X, Y, Z)
 * Upper-arm accelerometer, gyroscope, and magnetometer signals (X, Y, Z)
-* Upper-arm magnetometer signals (X, Y, Z)
 * Wrist accelerometer, gyroscope, and magnetometer signals (X, Y, Z)
 * `RPE_Val` (Rating of Perceived Exertion)
 * `Activity_Type`
