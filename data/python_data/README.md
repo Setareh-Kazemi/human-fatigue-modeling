@@ -8,10 +8,7 @@ The complete dataset is maintained in R format (`.RData`). To facilitate use by 
 
 **Current release:** The Python dataset contains the first 45 minutes of each experimental session, corresponding to the work period. Recovery-period data are not included in the current release and will be added in a future update.
 
-The dataset file can be downloaded from:
-
-**[FIGSHARE LINK]**
-
+The dataset file can be downloaded from: [Figshare Link](https://figshare.com/articles/dataset/_b_Dataset_for_Human_Fatigue_and_Recovery_Modeling_During_a_Controlled_Order-Picking_Experiment_b_/32537058?file=65167230)
 ---
 
 ## Dataset Structure
