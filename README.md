@@ -32,10 +32,10 @@ A total of 17 people participated in this experiment. Each session of the experi
 ---
 ## Data Files: 
 
-In the [**data**](data) folder, there is an [**input**](input) folder which includes the below files:
-   1. [Anthropometric_data.RData](data/inputs/Anthropometric_data.RData): In this file the anthropometrics of participants are saved including their: gender, age, height(cm), weight(kg), waist circumference (cm), hip circumference (cm), and body mass index (BMI).
-   2. [Experimental_Design.xlsx](data/inputs/Experimental_Design.xlsx): In the sheet "For analysis" of this file the random order of task conditions (combinations of load and pace) are assigned to different participants. This file is later used in the analysis to understand what task condition was performed in each session of the experiment. 
-   3. [IMU_Raw.txt](data//inputs/IMU_Raw.txt): This file contains the link to access the large raw IMU data for download.
-   4. [corrected_Changepoints.csv](data//inputs/corrected_Changepoints.csv): In this file the changepoints identifying the start and end of the first 45-minute of experiment are provided.
+In the [**data**](data) folder below files can be found:
+   1. [Anthropometric_data.RData](data/Anthropometric_data.RData): In this file the anthropometrics of participants are saved including their: gender, age, height(cm), weight(kg), waist circumference (cm), hip circumference (cm), and body mass index (BMI).
+   2. [NIOSH_Experiment_Settings.xlsx](data/NIOSH_Experiment_Settings.xlsx): In the sheet "For analysis" of this file the random order of task conditions (combinations of load and pace) are assigned to different participants. This file is later used in the analysis to understand what task condition was performed in each session of the experiment. 
+   3. [full_sensor_data](data/full_sensor_data) includes the [IMU_raw_data.md](data/IMU_raw_data.md): This file contains the link to access the large raw IMU and RPE data for download.
+   4. [corrected_Changepoints.csv](data/corrected_Changepoints.csv): In this file the changepoints identifying the start and end of the first 45-minute of experiment are provided.
 
 ---
