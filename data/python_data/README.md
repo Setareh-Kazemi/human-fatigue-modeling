@@ -115,7 +115,7 @@ If you use this dataset in research, publications, presentations, or derivative 
 
 ## Notes
 
-* This release contains only the work-period portion of the experiment (first 45 minutes).
+* This release contains only the first work-period portion of the experiment (first 45 minutes).
 * Recovery-period data will be included in a future release.
 * The pickle file is intended for Python users and mirrors the structure of the original dataset as closely as possible.
 * The complete dataset is maintained in R format (`.RData`) and is available in the `full_sensor_data` directory.
