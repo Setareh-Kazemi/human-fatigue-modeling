@@ -50,9 +50,10 @@ In the [**data**](data) folder below files can be found:
 - Incomplete sessions: Subjects 11 and 14 completed only one and two sessions, respectively, resulting in fewer observations for these participants compared to the rest of the sample.
 - IMU sensor orientation: In some sessions, IMU sensors were inadvertently mounted in a flipped orientation along the Z-axis. As no systematic documentation of these instances was maintained, affected sessions were identified post-hoc through signal analysis. For the samples listed below, the signs of all X- and Y-axis signals must be reversed to correct for this flipping:
 
--- Trunk sensor: Subject 16 (all sessions), Subject 15 (Session 3: 2.5 kg–15 bpm)
--- Upper arm sensor: Subject 16 (Session 2: 1.5 kg–15 bpm), Subject 15 (Sessions 1: 1.5 kg–15 bpm and 2: 2.5 kg–10 bpm), Subject 13 (Sessions 3: 1.5 kg–15 bpm and 4: 2.5 kg–15 bpm)
--- Wrist sensor: Subject 16 (Session 2: 1.5 kg–15 bpm), Subject 9 (Session 1: 2.5 kg–5 bpm)
+   - Trunk sensor: Subject 16 (all sessions), Subject 15 (Session 3: 2.5 kg–15 bpm)
+   - Upper arm sensor: Subject 16 (Session 2: 1.5 kg–15 bpm), Subject 15 (Sessions 1: 1.5 kg–15 bpm and 2: 2.5 kg–10 bpm), Subject 13 (Sessions 3: 1.5 kg–15 bpm and 4: 2.5 kg–15 bpm)
+   - Wrist sensor: Subject 16 (Session 2: 1.5 kg–15 bpm), Subject 9 (Session 1: 2.5 kg–5 bpm)
 
+* Researchers are encouraged to independently process the raw sensor signals and cross-validate these findings before use.
 
 ---
