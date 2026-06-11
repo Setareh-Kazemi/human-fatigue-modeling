@@ -54,6 +54,6 @@ In the [**data**](data) folder below files can be found:
    - Upper arm sensor: Subject 16 (Session 2: 1.5 kg–15 bpm), Subject 15 (Sessions 1: 1.5 kg–15 bpm and 2: 2.5 kg–10 bpm), Subject 13 (Sessions 3: 1.5 kg–15 bpm and 4: 2.5 kg–15 bpm)
    - Wrist sensor: Subject 16 (Session 2: 1.5 kg–15 bpm), Subject 9 (Session 1: 2.5 kg–5 bpm)
 
-* Researchers are encouraged to independently process the raw sensor signals and cross-validate these findings before use.
+Researchers are encouraged to independently process the raw sensor signals and cross-validate these findings before use.
 
 ---
