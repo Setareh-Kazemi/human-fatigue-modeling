@@ -27,7 +27,7 @@ Before beginning, participants sat quietly for five minutes to establish a resti
 
 The picking task was paced using a metronome. On each beep, participants used their right hand to retrieve a bottle from a box at shoulder height and transfer it to a box at waist height (Pictures 2 and 3), resting the arm between beeps. After five bottles were transferred, the waist-height box was lowered to a conveyor at knee height (Picture 4). Participants rated their perceived exertion every five minutes using the [Borg 0-10 Ratings of Perceived Exertion (RPE) Scale](https://my.clevelandclinic.org/health/articles/17450-rated-perceived-exertion-rpe-scale).
 
-![Image of workstation](figures/Workstation2.jpeg)
+![Image of workstation](figures/Simulated Workstation2.jpeg)
 
 ---
 ## Data Files: 
