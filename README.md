@@ -27,7 +27,7 @@ Before beginning, participants sat quietly for five minutes to establish a resti
 
 The picking task was paced using a metronome. On each beep, participants used their right hand to retrieve a bottle from a box at shoulder height and transfer it to a box at waist height (Pictures 2 and 3), resting the arm between beeps. After five bottles were transferred, the waist-height box was lowered to a conveyor at knee height (Picture 4). The facilitator tracked the pace of the movement using a metronome, recorded the RPE every 5-minute using the [Borg 0-10 Ratings of Perceived Exertion (RPE) Scale](https://my.clevelandclinic.org/health/articles/17450-rated-perceived-exertion-rpe-scale), reminded the participant to take the MVIC measurement every 9-minute, and returned the full box back to the top shelf at the end of each round (Picture 5).
 
-![Image of workstation](figures/Simulated_Workstation.jpeg)
+![Image of workstation](figures/Simulated_Workstation.png)
 
 ---
 ## Data Files: 
