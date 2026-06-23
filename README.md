@@ -5,11 +5,7 @@
 --- 
 
 ## Project Members:  
-- **Setareh Kazemi Kheiri, Department of Industrial Engineering, University of Pittsburgh**, **skazemi@pitt.edu**
-- **Sahand Hajifar, Robert W. Plaster School of Business, Park University**, **sahand.hajifar@park.edu**
-- **Fadel M. Megahed, Farmer School of Business, Miami University**, **fmegahed@miamioh.edu**
-- **Lora A. Cavuoto, Department of Industrial and Systems Engineering, University at Buffalo**, **loracavu@buffalo.edu**
-- **Hongyue Sun, College of Engineering, University of Georgia**, **hongyuesun@uga.edu**
+Will be posted after publication.
 
 ---
 ## Objective:
