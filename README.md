@@ -17,7 +17,7 @@ In this document all the data related to the associated paper entitled "Predicti
 Data used in this study is driven from an experiment conducted to assess the fatigue accumulation of **upper limb fatigue** in a repetitive overhead load lifting task. The experiment was conducted with four different conditions, with varying: (a) **task weights:** 1.5 and 2.5 kg, and (b) **task paces:** 5, 10, and 15 bpm. The four conditions are based on the following combinations of pace and weights: 
 
 - 5 bpm -- 2.5 kg,   
-- 10 bpm -- 2-5 kg,   
+- 10 bpm -- 2.5 kg,   
 - 15 bpm -- 2.5 kg, and   
 - 15 bpm -- 1.5 kg 
 
